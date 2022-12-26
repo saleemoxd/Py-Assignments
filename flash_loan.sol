@@ -1,4 +1,4 @@
-pragma solidity ^0.6.6;
+pragma solidity ^0.8.0;
 
 import "https://github.com/aave/aave-protocol-contracts/contracts/lending/FlashLoan.sol";
 import "https://github.com/KyberNetwork/smart-contracts/contracts/KyberNetwork.sol";
